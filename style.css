@@ -1,0 +1,13 @@
+body{
+  width: 1000px;
+  margin:0 auto;
+  font-size: 18px;
+}
+p{
+  padding: 0 15px;
+}
+.questions{
+  font-style: italic;
+  padding: 0;
+  color: rgb(104, 102, 102);
+}
